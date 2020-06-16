@@ -1,0 +1,27 @@
++1) Implement the bubble sort.
+
++2) Create a Java code what will display a Christmas tree.
+
++3) Create a Java code to find duplicate elements in an String array, then create an array that contains all duplicates and one that does not contain duplicates.
+
++4) Implement a Java function that finds two neighboring numbers in an array with the smallest distance to each other. 
+	
++?5) A foolproof winning strategy for roulette is to always bet on the same color: If you loose your wager, then you simply double the bet to compensate the loss. 
+  The probability for red (or black) is 50% (we ignore the existence of zero).
+  Implement a Java method, that calculates how much money you approximately need for playing 1 000 000 times with 1 Euro as the first bet.
+  How much money do you approximately need, without loosing it during gambling?
+ 
++6) Create a copy of an array using different methods.
+
++7) Create class with 2 static methods with parameters. First will take a String parameter and parse to a Date object, the second will format a Date to a String.
+   Call the both methods in main method.
+
++8) Convert a String to an array of String.
+
++9) Convert a int to a String and make some operations (Same for other primitive types).
+
++?10) Create a Java code and compare 2 Objects using == operator and equals method and try to achieve:
+    - objects should be equal by values but have different hash codes;
+    - objects should be equal by values but have same hash codes;
+    - objects should not be equal by values but have same hash codes;
+    - objects should not be equal by values but have different hash codes.
